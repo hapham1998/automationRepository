@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oT2bjNiHVGPsGk7bbIxAaC60YngfYuASfL0nQxlWePRV9rJiI+jhzetXtA1QKfso/u6RUtmALOqC7jY8nze/zw==",
+  "dgSpecHash": "XHXwO3Rwd2buhCITkr6/oH1n+DRNCcpxhsaIA2RONKM6rmnI9JBOeO7mEFB+l3Vi4+kKfQxbRBM0IuY4cEdmig==",
   "success": true,
-  "projectFilePath": "F:\\AutomationTest\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
+  "projectFilePath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

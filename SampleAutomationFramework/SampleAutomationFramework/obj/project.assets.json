@@ -5297,11 +5297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AutomationTest\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
+      "projectUniqueName": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
       "projectName": "SampleAutomationFramework",
-      "projectPath": "F:\\AutomationTest\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
+      "projectPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "F:\\AutomationTest\\SampleAutomationFramework\\SampleAutomationFramework\\obj\\",
+      "outputPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5318,8 +5318,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\AutomationTest\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj": {
-              "projectPath": "F:\\AutomationTest\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj"
+            "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj": {
+              "projectPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj"
             }
           }
         }
