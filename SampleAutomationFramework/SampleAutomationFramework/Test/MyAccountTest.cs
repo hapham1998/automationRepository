@@ -13,7 +13,7 @@ namespace SampleAutomationFramework.Test
         LoginPage loginPage;
         public MyAccountTest()
         {
-            loginPage = new LoginPage(Browser.Driver);
+            loginPage = new LoginPage(Browser);
         }
 
         [Fact]

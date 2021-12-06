@@ -5292,19 +5292,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
+      "projectUniqueName": "D:\\Ha_code\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
       "projectName": "SampleAutomationFramework",
-      "projectPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\obj\\",
+      "projectPath": "D:\\Ha_code\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\SampleAutomationFramework.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "D:\\Ha_code\\automationRepository\\SampleAutomationFramework\\SampleAutomationFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5318,8 +5318,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj": {
-              "projectPath": "F:\\AutomationTest\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj"
+            "D:\\Ha_code\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj": {
+              "projectPath": "D:\\Ha_code\\automationRepository\\SampleAutomationFramework\\Actuos_WebDriver\\Actuos_WebDriver.csproj"
             }
           }
         }
@@ -5382,7 +5382,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,7 +10,7 @@ namespace Actuos_WebDriver
 {
     public class Browser
     {
-        public IWebDriver Driver;
+        public static IWebDriver Driver;
         public Browser(BrowserType type, string driverUrl)
         {
             Driver = BrowserFactory.GetWebDriver(type);

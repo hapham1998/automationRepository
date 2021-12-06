@@ -8,11 +8,11 @@ namespace SampleAutomationFramework.Pages
 {
     public class BasePage
     {
-       public IWebDriver Driver;
+       public Browser Browser;
 
-        public BasePage(IWebDriver driver)
+        public BasePage(Browser browser)
         {
-            Driver = driver;
+            Browser = browser;
         }
     }
 }
