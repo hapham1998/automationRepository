@@ -1,19 +1,20 @@
-﻿using OpenQA.Selenium;
+﻿using Actuos_WebDriver;
+using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace SampleAutomationFramework.Pages
 {
-    public class MyAccountPage
+    public class MyAccountPage : BasePage
     {
-        IWebDriver Driver;
-        public MyAccountPage(IWebDriver driver)
+        
+        public MyAccountPage(Browser browser) : base(browser)
         {
-            Driver = driver;
+            
         }
 
-        IWebElement editAccountLink => Driver.FindElement(By.XPath(""));
+        IWebElement editAccountLink => Browser.Driver.FindElement(By.XPath(""));
 
         public void ClickEditAccount()
         {

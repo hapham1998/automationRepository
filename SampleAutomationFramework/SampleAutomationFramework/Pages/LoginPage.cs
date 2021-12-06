@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using Actuos_WebDriver;
+using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,14 +8,14 @@ namespace SampleAutomationFramework.Pages
 {
    public class LoginPage: BasePage
     {
-        public LoginPage(IWebDriver driver): base(driver)
+        public LoginPage(Browser browser): base(browser)
         {
         }
 
-        IWebElement btnLogin => Driver.FindElement(By.XPath("//a[contains(text(),'Log In')]"));
-        IWebElement txtEmailAddress => Driver.FindElement(By.XPath("//input[@name='email']"));
-        IWebElement txtPassword => Driver.FindElement(By.XPath("//input[@name='password']"));
-        IWebElement btn_Login => Driver.FindElement(By.XPath("//span[contains(text(),'Login')]"));
+        IWebElement btnLogin => Browser.Driver.FindElement(By.XPath("//a[contains(text(),'Log In')]"));
+        IWebElement txtEmailAddress => Browser.Driver.FindElement(By.XPath("//input[@name='email']"));
+        IWebElement txtPassword => Browser.Driver.FindElement(By.XPath("//input[@name='password']"));
+        IWebElement btn_Login => Browser.Driver.FindElement(By.XPath("//span[contains(text(),'Login')]"));
 
         public void Login()
         {
